@@ -1,0 +1,14 @@
+node_modules
+.prettierignore
+coverage
+dist
+package-lock.json
+package.json
+src/css/style.css
+src/svg/
+src/index.html
+README.md
+.babelrc
+.gitignore
+.appveyor.yml
+.browserslistrc
